@@ -61,6 +61,8 @@ params:
 <br><br>
 <img src='/tiger.png' alt='Illustration of spatial patterns' style='display:block;width:100%;max-width:650px;height:auto;margin:12px auto;border:none !important;outline:none !important;box-shadow:none !important;border-radius:0;'>
 
+
+<div style='max-width:650px;margin:8px auto 20px;text-align:center;font-size:0.85em;line-height:1.6;'>Benoît Perthame and Mingyue Zhang (2026)<br><a href='https://doi.org/10.4171/ecr/23/7'><em>Patterns in the Keller–Segel system with density cut-off</em></a><br>DOI: <a href='https://doi.org/10.4171/ecr/23/7'>10.4171/ecr/23/7</a></div>
 "
           imageUrl: "2.jpg"
           imageWidth: 160
