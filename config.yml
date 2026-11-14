@@ -30,7 +30,7 @@ menu:
 
 params:
     description: "Academic homepage of Mingyue Zhang, Postdoctoral Researcher at TU Wien."
-        author: Mingyue Zhang
+    author: Mingyue Zhang
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
