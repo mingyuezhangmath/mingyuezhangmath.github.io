@@ -42,10 +42,12 @@
     --border: rgb(51, 51, 51);
 }
 
+
 .list {
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 .dark.list {
     background: var(--theme);
 }
+
