@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Academic homepage of Mingyue Zhang, Postdoctoral Researcher at TU Wien."
+        author: Mingyue Zhang
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
@@ -90,7 +90,7 @@ I am a postdoctoral researcher in the group of Prof. Ansgar Jüngel at TU Wien, 
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: Moritz-Maria von Igelfeld
+      text: Mingyue Zhang
       icon: favicon.ico
       iconHeight: 18
 
