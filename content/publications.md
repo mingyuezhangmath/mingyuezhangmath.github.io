@@ -24,6 +24,7 @@ ShowReadingTime: false
 
 1. Xinmei Wen, **Mingyue Zhang**, and Yang Chen. *Dynamical Behaviors of Attraction-Repulsion Chemotaxis Model*. *International Journal of Numerical Analysis and Modeling* **17** (2020), no. 4, 457–484. [DOI](https://doi.org/10.4208/ijnam.v17.n4.p457).
 
+
 ## PhD Thesis
 
-1. **Mingyue Zhang**. *Patterns and asymptotic problems of the Keller–Segel system with density cut-off*. PhD thesis, Sorbonne Université, 2025. [DOI as listed in ORCID](https://doi.org/10.70675/13e80295zead1z4859zb84fzf29e30df7a74).
+**Mingyue Zhang**. *Patterns and asymptotic problems of the Keller–Segel system with density cut-off*. PhD thesis, Sorbonne Université, 2025. [DOI](https://dx.doi.org/10.70675/13e80295zead1z4859zb84fzf29e30df7a74).
