@@ -75,11 +75,13 @@ I am a postdoctoral researcher in the group of Prof. Ansgar Jüngel at TU Wien, 
          
           buttons: []
     socialIcons:
+        
         - name: CV
           title: Publications
-          url: papers/
+          url: "/publications/"
+
         - name: Email
-          url: "mailto:your.email@example.com"
+          url: "mingyue.zhang@tuwien.ac.at"
 
 
     assets:
