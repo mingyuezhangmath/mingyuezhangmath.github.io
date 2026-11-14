@@ -57,7 +57,9 @@ params:
           title: Dr. Mingyue Zhang
 
          
-          subtitle: "I am a postdoctoral researcher in the group of Prof. Ansgar Jüngel at TU Wien, Austria, since October 2025. I obtained my PhD in July 2025 under the supervision of Prof. Benoît Perthame at the Laboratoire Jacques-Louis Lions, Sorbonne Université, France.<br><br>My research focuses on the analysis of nonlinear partial differential equations and entropy methods. I am interested in Keller–Segel systems, kinetic equations, the Navier–Stokes equations, and general cross-diffusion systems. My analytical interests include well-posedness, singular limits, and pattern formation.
+          subtitle: "
+<span style='display:block;font-size:1.15em;font-weight:600;line-height:1.5;'>Postdoctoral Researcher</span><span style='display:block;font-size:1em;margin-bottom:20px;'>TU Wien, Austria</span>
+I am a postdoctoral researcher in the group of Prof. Ansgar Jüngel at TU Wien, Austria, since October 2025. I obtained my PhD in July 2025 under the supervision of Prof. Benoît Perthame at the Laboratoire Jacques-Louis Lions, Sorbonne Université, France.<br><br>My research focuses on the analysis of nonlinear partial differential equations and entropy methods. I am interested in Keller–Segel systems, kinetic equations, the Navier–Stokes equations, and general cross-diffusion systems. My analytical interests include well-posedness, singular limits, and pattern formation.
 <br><br>
 <img src='/tiger.png' alt='Illustration of spatial patterns' style='display:block;width:100%;max-width:650px;height:auto;margin:12px auto;border:none !important;outline:none !important;box-shadow:none !important;border-radius:0;'>
 
