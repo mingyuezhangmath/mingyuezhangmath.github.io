@@ -45,3 +45,36 @@
 .button:hover {
     background: var(--lightcolor);
 }
+
+/* Avatar on the left, name and position on the right */
+@media (min-width: 701px) {
+    .profile .profile_inner {
+        display: grid;
+        grid-template-columns: 180px minmax(0, 1fr);
+        column-gap: 28px;
+        row-gap: 22px;
+        align-items: center;
+        width: 100%;
+    }
+
+    .profile .profile_inner > img {
+        grid-column: 1;
+        grid-row: 1;
+        width: 160px;
+        height: 160px;
+        object-fit: cover;
+    }
+
+    .profile .profile_inner > h1 {
+        grid-column: 2;
+        grid-row: 1;
+        margin: 0;
+        line-height: 1.2;
+    }
+
+    .profile .profile_inner > span,
+    .profile .profile_inner > .social-icons,
+    .profile .profile_inner > .buttons {
+        grid-column: 1 / -1;
+    }
+}
