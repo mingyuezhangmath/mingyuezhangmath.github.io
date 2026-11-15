@@ -78,3 +78,13 @@
         grid-column: 1 / -1;
     }
 }
+
+/* Reduce spacing before Publications */
+.profile .profile_inner > .post-content {
+    margin-top: 0 !important;
+}
+
+.profile .profile_inner > .post-content > h2:first-child {
+    margin-top: 0 !important;
+    margin-bottom: 20px;
+}
