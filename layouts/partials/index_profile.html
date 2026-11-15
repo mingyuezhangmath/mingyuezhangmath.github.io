@@ -1,0 +1,24 @@
+
+<div class="profile">
+  <div class="profile_inner">
+    {{ with site.Params.profileMode.imageUrl }}
+    <img draggable="false"
+         src="{{ . | absURL }}"
+         alt="Mingyue Zhang"
+         width="160"
+         height="160">
+    {{ end }}
+
+    <h1>{{ site.Params.profileMode.title | default site.Title | markdownify }}</h1>
+
+    <span>{{ site.Params.profileMode.subtitle | markdownify }}</span>
+
+    {{ with site.GetPage "/publications" }}
+    <section class="post-content"
+             style="grid-column:1 / -1;width:100%;text-align:left;margin-top:35px;">
+      <h2>Publications</h2>
+      {{ .Content }}
+    </section>
+    {{ end }}
+  </div>
+</div>
