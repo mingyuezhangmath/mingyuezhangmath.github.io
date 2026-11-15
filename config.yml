@@ -42,7 +42,7 @@ params:
     profileMode:
           enabled: true
           
-          title: "Mingyue Zhang<span style='display:block;font-size:0.55em;font-weight:600;margin-top:12px;line-height:1.5;'>Postdoctoral Researcher</span><span style='display:block;font-size:0.5em;font-weight:400;line-height:1.5;'>TU Wien, Austria</span>"
+          title: "Mingyue Zhang<span style='display:block;font-size:0.55em;font-weight:600;margin-top:12px;line-height:1.5;'>Postdoctoral Researcher · Applied Mathematics · Nonlinear PDEs</span><span style='display:block;font-size:0.5em;font-weight:400;line-height:1.5;'>TU Wien, Austria</span>"
 
 
          
