@@ -10,6 +10,8 @@ ShowReadingTime: false
 
 1. Yan Guo, Hailiang Li, Xiangyu Ma, and **Mingyue Zhang**. *Validity of three-dimensional axisymmetric steady Prandtl expansion*. arXiv:2611.02492 (2026). [arXiv](https://arxiv.org/abs/2611.02492).
 
+1. Ansgar Jüngel, Annamaria Pollino, and **Mingyue Zhang**. *Rigorous Diffusion Limit of a BGK Model with Brinkman-Type Force*. Preprint, 2026. [PDF](/BGK-Brinkman.pdf).
+
 1. **Mingyue Zhang**. *Three asymptotic regimes for a Keller–Segel system with volume-filling effect*. arXiv:2609.04599 (2026). [arXiv](https://arxiv.org/abs/2609.04599).
 
 1. Noah Geltner, Ansgar Jüngel, and **Mingyue Zhang**. *Analysis of a multispecies cross-diffusion Keller–Segel system with volume filling*. arXiv:2607.12897 (2026). [arXiv](https://arxiv.org/abs/2607.12897).
